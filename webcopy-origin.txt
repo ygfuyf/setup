@@ -1,0 +1,12 @@
+Uri: https://fidelity24x7-customer-care-assisted.onrender.com/?gad_source=1&gclid=CjwKCAjw9p24BhB_EiwA8ID5Bv2FAUbiXaY-Y8XoAT3dCL7zqkgcJDn5EDT_BjFL7KA3_L9tkMdUJxoCi8QQAvD_BwE
+File Name: C:\Downloaded Web Sites\fidelity24x7-customer-care-assisted.onrender.com\index.htm
+Content Type: text/html
+
+Uri: https://fidelity24x7-customer-care-assisted.onrender.com/fid.png
+File Name: C:\Downloaded Web Sites\fidelity24x7-customer-care-assisted.onrender.com\fid.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-9Y8MCNE5XF
+File Name: C:\Downloaded Web Sites\fidelity24x7-customer-care-assisted.onrender.com\gtag\js
+Content Type: application/javascript
+
